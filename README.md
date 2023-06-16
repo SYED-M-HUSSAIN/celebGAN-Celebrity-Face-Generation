@@ -12,7 +12,7 @@ This section showcases the original dataset of celebrity face images used in the
 
 To generate synthetic face images, follow these steps:
 
-1. Open the [celebGAN.ipynb](celebGAN.ipynb) notebook in Google Colab.
+1. Open the [Celeb_dcGans.ipynb](https://github.com/SYED-M-HUSSAIN/celebGAN-Celebrity-Face-Generation/blob/main/Celeb_dcgan.ipynb) notebook in Google Colab.
 2. Click on the "Open in Colab" button at the top of the notebook.
 3. Follow the instructions in the notebook to set up the necessary dependencies and runtime environment.
 4. Execute the code cells in sequential order to train the DCGAN model and generate synthetic face images.
